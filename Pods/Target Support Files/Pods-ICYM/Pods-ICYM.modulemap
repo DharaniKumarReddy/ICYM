@@ -1,0 +1,6 @@
+framework module Pods_ICYM {
+  umbrella header "Pods-ICYM-umbrella.h"
+
+  export *
+  module * { export * }
+}

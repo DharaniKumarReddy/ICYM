@@ -1,0 +1,6 @@
+framework module Pods_ICYMTests {
+  umbrella header "Pods-ICYMTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
