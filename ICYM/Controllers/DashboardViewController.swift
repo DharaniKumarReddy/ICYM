@@ -257,25 +257,4 @@ extension DashboardViewController {
             break
         }
     }
-    
-    private func getAlertTitle() -> String {
-        switch PushNotificationHandler.sharedInstance.notificationType {
-        case 4:
-            return "News"
-        case 2:
-            return "Bolivian"
-        case 5:
-            return "Magazines"
-        case 8:
-            return "Notifications"
-        case 6:
-            return "Missions Team"
-        case 1:
-            return "Mission"
-        case 3:
-            return "Projektbispiele"
-        default:
-            return "Franziskaner"
-        }
-    }
 }
