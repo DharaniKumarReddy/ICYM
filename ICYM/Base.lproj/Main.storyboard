@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4Oj-ol-A6o">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="4Oj-ol-A6o">
     <device id="retina6_5" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -1644,27 +1644,27 @@
                                                     <constraint firstAttribute="width" constant="90" id="wjB-M6-WsG"/>
                                                 </constraints>
                                             </imageView>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BISHOP FRANCO MULAKKAL" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EYf-tZ-M95">
-                                                <rect key="frame" x="102" y="16" width="273" height="16"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="MOST.REV.NAZARENE SOOSAI" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EYf-tZ-M95">
+                                                <rect key="frame" x="102" y="16" width="273" height="32"/>
                                                 <fontDescription key="fontDescription" name="HoeflerText-Black" family="Hoefler Text" pointSize="16"/>
                                                 <color key="textColor" red="0.092089675369999999" green="0.65283733610000005" blue="0.96452099079999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chairman, CBCI Youth Council" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rdp-UY-tsA">
-                                                <rect key="frame" x="102" y="44" width="273" height="13"/>
+                                                <rect key="frame" x="102" y="60" width="273" height="13"/>
                                                 <fontDescription key="fontDescription" name="HoeflerText-Regular" family="Hoefler Text" pointSize="13"/>
                                                 <color key="textColor" red="0.092089675369999999" green="0.65283733610000005" blue="0.96452099079999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KVz-oc-lOP">
-                                                <rect key="frame" x="102" y="60" width="276" height="1"/>
+                                                <rect key="frame" x="102" y="76" width="276" height="1"/>
                                                 <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="1" id="7rj-HL-HhV"/>
                                                 </constraints>
                                             </view>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="View Message.." lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="C4e-uf-7Ih">
-                                                <rect key="frame" x="293.66666666666669" y="63" width="84.333333333333314" height="13"/>
+                                                <rect key="frame" x="293.66666666666669" y="79" width="84.333333333333314" height="13"/>
                                                 <fontDescription key="fontDescription" name="HoeflerText-Regular" family="Hoefler Text" pointSize="13"/>
                                                 <color key="textColor" red="0.092089675369999999" green="0.65283733610000005" blue="0.96452099079999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -1888,7 +1888,7 @@
                                                 </constraints>
                                             </view>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icym_nyd" translatesAutoresizingMaskIntoConstraints="NO" id="YKb-bZ-Pri">
-                                                <rect key="frame" x="0.0" y="0.0" width="90" height="117"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="90" height="117.00000000000003"/>
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="90" id="G3a-NC-Zpy"/>
                                                 </constraints>
@@ -2905,7 +2905,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="default_image" translatesAutoresizingMaskIntoConstraints="NO" id="scu-NI-j8s">
-                                                    <rect key="frame" x="0.0" y="0.0" width="414" height="200"/>
+                                                    <rect key="frame" x="0.0" y="0.0" width="414" height="200.00000000000003"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="200" id="bCb-mX-FuT"/>
                                                     </constraints>
@@ -3647,18 +3647,18 @@
     <resources>
         <image name="UINavigationBarBackIndicatorDefault" width="12.5" height="20.5"/>
         <image name="about_us" width="42.666667938232422" height="42.666667938232422"/>
-        <image name="address" width="635.586181640625" height="635.586181640625"/>
-        <image name="background" width="600" height="1000"/>
+        <image name="address" width="85.333335876464844" height="85.333335876464844"/>
+        <image name="background" width="200" height="333.33334350585938"/>
         <image name="committees" width="66.666664123535156" height="66.666664123535156"/>
         <image name="default_image" width="269.33334350585938" height="151.66667175292969"/>
         <image name="dioceses" width="96" height="96"/>
         <image name="feedback_black" width="66.666664123535156" height="66.666664123535156"/>
         <image name="gallery_black" width="66.666664123535156" height="66.666664123535156"/>
         <image name="historyofnyc_black" width="66.666664123535156" height="66.666664123535156"/>
-        <image name="icym" width="191.25" height="191.25"/>
-        <image name="icym_chairman" width="102" height="120"/>
-        <image name="icym_member_bishop" width="97.5" height="120"/>
-        <image name="icym_member_bishop2" width="97.5" height="120"/>
+        <image name="icym" width="85" height="85"/>
+        <image name="icym_chairman" width="61" height="92"/>
+        <image name="icym_member_bishop" width="43.333332061767578" height="53.333332061767578"/>
+        <image name="icym_member_bishop2" width="43.333332061767578" height="53.333332061767578"/>
         <image name="icym_nyd" width="95.666664123535156" height="122.66666412353516"/>
         <image name="logo" width="93.333335876464844" height="94.666664123535156"/>
         <image name="menu" width="42.666667938232422" height="42.666667938232422"/>
